@@ -10,5 +10,4 @@
 https://www.johndcook.com/blog/2017/02/14/recreating-the-vertigo-poster/
 
 ## Examples
-![GUI](https://imgur.com/AYGWAd4)
-![enter image description here](https://imgur.com/5ZsMt22)
+![GUI](https://imgur.com/a/UHnoS4s)
