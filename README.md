@@ -1,6 +1,6 @@
 # Made for recreating the Hitchcock's 1958 Vertigo spiral
 # Instalation
-## Window .exe 
+## Windows .exe 
  - Download the latest package and run Vertigo.exe
 ## Using Python
 
